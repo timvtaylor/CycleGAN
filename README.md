@@ -3,4 +3,7 @@
   
   To address the issue, the weight for the idenity loss was reduced to $0.1 \times \lambda_{cycle} = 1$. Current results are displayed after running training for 130 epochs. The quality in translation has not bottomed out yet, so more training is yet to be conducted for even more impressive results.
   
-  ADD IMAGES HERE
+![image_not_found](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
+![image_not_found](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
